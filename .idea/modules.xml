@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LiveStyle.iml" filepath="$PROJECT_DIR$/LiveStyle.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/livestyle.iml" filepath="$PROJECT_DIR$/livestyle.iml" />
     </modules>
   </component>
 </project>
